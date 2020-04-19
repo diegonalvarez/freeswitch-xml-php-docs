@@ -30,7 +30,7 @@ export default {
   },
   data() {
     return {
-      description: 'A PHP library to server XML files for Freeswitch'
+      description: 'A PHP library to serve XML files for Freeswitch'
     }
   },
   metaInfo() {
