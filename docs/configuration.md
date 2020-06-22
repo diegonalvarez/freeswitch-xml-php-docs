@@ -23,6 +23,9 @@ After this you need to cd in you project and run composer:
 
 ```bash
 cd freeswitch-xml-php
+```
+
+```bash
 composer install
 ```
 
